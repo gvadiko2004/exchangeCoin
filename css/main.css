@@ -647,6 +647,10 @@ input[type=number] {
   grid-template-columns: 1fr;
 }
 
+.hero__dropdown-put {
+  max-height: 282px;
+}
+
 .workus {
   margin-bottom: 80px;
 }
